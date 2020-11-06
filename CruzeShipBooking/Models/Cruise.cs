@@ -16,5 +16,6 @@ namespace CruzeShipBooking.Models
         [DisplayName("No. Passangers")]
         public int NumberOfPassagers { get; set; }
         public string Status { get; set; }
+        //
     }
 }
